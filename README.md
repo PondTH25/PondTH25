@@ -230,7 +230,6 @@ Mobile Full Stack Developer  <!-- with  <b>2.9+ years</b>  -->
 <div align="center"> 
 
 [![Email](https://img.shields.io/badge/thodsaphon25.work@gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:thodsaphon25.work@gmail.com)
-[![Instagram](https://img.shields.io/badge/@pond__th25-0F172A?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/pond_th25)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2)](#)-->
 
 <sub>Open to full-stack opportunities · Bangkok, Thailand</sub>
