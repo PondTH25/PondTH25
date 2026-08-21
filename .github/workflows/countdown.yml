@@ -19,7 +19,13 @@ jobs:
           YEAR=$(TZ=Asia/Bangkok date +%Y)
           END="$YEAR-12-31"
           DAYS=$(( ($(date -d "$END" +%s) - $(date -d "$TODAY" +%s)) / 86400 ))
-          TEXT="⏳ เหลืออีก **$DAYS วัน** จะหมดปี $YEAR"
+
+          # Full formatted date: e.g. Friday, 21 August 2026
+          FULL_DATE=$(TZ=Asia/Bangkok date +"%A, %d %B %Y")
+
+          TEXT="📅 Today is **$FULL_DATE**  
+          ⏳ **$DAYS days** left until the end of $YEAR"
+
           python3 - "$TEXT" <<'EOF'
           import re, sys
           text = sys.argv[1]
