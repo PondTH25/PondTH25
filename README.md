@@ -2,13 +2,9 @@
 
 <h1 align="center">Hi<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">, I'm Pond 🍀</h1>
 
-<br />
-## เหลืออีก
 <!--START:countdown-->
 🗓️ เหลืออีก **132 วัน** จะหมดปี 2026
 <!--END:countdown-->
-
-<br />
 
 `Born in 2000` &nbsp;·&nbsp; `Sofeware Developer` &nbsp;·&nbsp; `BangkokTH`
 
