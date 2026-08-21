@@ -19,7 +19,7 @@ jobs:
           YEAR=$(TZ=Asia/Bangkok date +%Y)
           END="$YEAR-12-31"
           DAYS=$(( ($(date -d "$END" +%s) - $(date -d "$TODAY" +%s)) / 86400 ))
-          TEXT="🗓️ เหลืออีก **$DAYS วัน** จะหมดปี $YEAR"
+          TEXT="⏳ เหลืออีก **$DAYS วัน** จะหมดปี $YEAR"
           python3 - "$TEXT" <<'EOF'
           import re, sys
           text = sys.argv[1]
