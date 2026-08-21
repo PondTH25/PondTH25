@@ -4,7 +4,7 @@
 
 <br />
 
-`Born in 2000` &nbsp;·&nbsp; `Sofeware Developer` &nbsp;·&nbsp; `Bangkok` &nbsp;·&nbsp; `TH`
+`Born in 2000` &nbsp;·&nbsp; `Sofeware Developer` &nbsp;·&nbsp; `BangkokTH`
 
 </div>
 
