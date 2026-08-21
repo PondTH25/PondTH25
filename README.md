@@ -10,16 +10,15 @@
 
 <br />
 
-Mobile Full Stack Developer with **2.9+ years** building applications and backend systems for
-enterprise and government projects. I work across the whole stack — Flutter on the front,
-REST APIs and databases on the back — and ship to real users on the Play Store.
+<p align="center">
+Mobile Full Stack Developer with <b>2.9+ years</b> building applications and backend systems for enterprise and government projects. I work across the whole stack — Flutter on the front, REST APIs and databases on the back — and ship to real users on the Play Store.
+</p>
 
 <br />
 
+<!-- ## Stack
 
-## Stack
-
-<div align="center">
+ <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
@@ -37,7 +36,7 @@ REST APIs and databases on the back — and ship to real users on the Play Store
 
 </div>
 
-<br />
+<br /> -->
 
 ## Languages and Tools
 
@@ -225,13 +224,13 @@ REST APIs and databases on the back — and ship to real users on the Play Store
 
 </div>
   
-## Contact
+## 💬 Contact
 
-<div align="center">
+<div align="center"> 
 
 [![Email](https://img.shields.io/badge/thodsaphon25.work@gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:thodsaphon25.work@gmail.com)
 [![Instagram](https://img.shields.io/badge/@pond__th25-0F172A?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/pond_th25)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2)](#)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=0A66C2)](#)-->
 
 <sub>Open to full-stack opportunities · Bangkok, Thailand</sub>
 </div>
