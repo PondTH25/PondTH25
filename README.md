@@ -2,12 +2,12 @@
 
 <h1 align="center">Hi<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px">, I'm Pond 🍀</h1>
 
+`Born in 2000` &nbsp;·&nbsp; `Sofeware Developer` &nbsp;·&nbsp; `BangkokTH`
+
 <!--START:countdown-->
 📅 Today is **Friday, 21 August 2026**  
 ⏳ **132 days** left until the end of 2026
 <!--END:countdown-->
-
-`Born in 2000` &nbsp;·&nbsp; `Sofeware Developer` &nbsp;·&nbsp; `BangkokTH`
 
 </div>
 
