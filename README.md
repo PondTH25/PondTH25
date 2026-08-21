@@ -11,8 +11,6 @@
 
 </div>
 
-<br />
-
 <p align="center">
 Mobile Full Stack Developer  <!-- with  <b>2.9+ years</b>  -->
  building applications and backend systems for enterprise and government projects. I work across the whole stack — Flutter on the front, REST APIs and databases on the back — and ship to real users on the Play Store.
