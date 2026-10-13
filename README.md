@@ -5,8 +5,8 @@
 `Born in 2000` &nbsp;·&nbsp; `Sofeware Developer` &nbsp;·&nbsp; `BangkokTH`
 
 <!--START:countdown-->
-📅 Today is **Tuesday, 13 October 2026**  
-⏳ **79 days** left until the end of 2026
+📅 Today is **Wednesday, 14 October 2026**  
+⏳ **78 days** left until the end of 2026
 <!--END:countdown-->
 
 </div>
